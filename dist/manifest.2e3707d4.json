@@ -1,0 +1,55 @@
+{
+  "name": "Autoprix.tn",
+  "short_name": "Autoprix.tn",
+  "description": "autoprix",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/edwm101/cdn@master/dist/icons/icon_64x64.247fe8.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/edwm101/cdn@master/dist/icons/icon_120x120.247fe8.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/edwm101/cdn@master/dist/icons/icon_144x144.247fe8.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/edwm101/cdn@master/dist/icons/icon_152x152.247fe8.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/edwm101/cdn@master/dist/icons/icon_192x192.247fe8.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/edwm101/cdn@master/dist/icons/icon_384x384.247fe8.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/edwm101/cdn@master/dist/icons/icon_512x512.247fe8.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a3142",
+  "theme_color": "#1a3142",
+  "lang": "fr",
+  "gcm_sender_id": "357455137326"
+}

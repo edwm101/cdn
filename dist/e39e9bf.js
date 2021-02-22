@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{558:function(n,t,e){"use strict";e.r(t);var c=e(18),l=e(22),r=e.n(l),o=e(82),component=Object(c.a)({},(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("v-fade-transition",[t("nuxt-child")],1)],1)}),[],!1,null,null,null);t.default=component.exports;r()(component,{VFadeTransition:o.c})}}]);
